@@ -1,1 +1,10 @@
+# GINCHI Token Information
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+DOCUMENTATION_URL = "https://kitchengarden-gin7.github.io/home/"
 
+[[CURRENCIES]]
+code = "GINCHI"
+issuer = "GCYRZWKDDNBUBBIYVGGEBB32YZKBII7BSAEN45ZUDBXPBM3SV7MNH4RR"
+display_decimals = 7
+name = "GINCHI"
+desc = "KITCHEN GARDEN GIN-SHICHI official token"
