@@ -8,3 +8,4 @@ issuer = "GCYRZWKDDNBUBBIYVGGEBB32YZKBII7BSAEN45ZUDBXPBM3SV7MNH4RR"
 display_decimals = 7
 name = "GINCHI"
 desc = "KITCHEN GARDEN GIN-SHICHI official token"
+image = "https://kitchengarden-gin7.github.io/logo.png"
